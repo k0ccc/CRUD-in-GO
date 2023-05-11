@@ -1,4 +1,4 @@
-module example/web-service-gin
+module example/CRUD
 
 go 1.20
 
