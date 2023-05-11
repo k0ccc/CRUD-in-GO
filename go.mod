@@ -1,4 +1,4 @@
-module example/CRUD
+module k0ccc/CRUD
 
 go 1.20
 
